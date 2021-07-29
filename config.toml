@@ -1,0 +1,58 @@
+baseurl = "https://nesgames.asfdfdfd.com"
+DefaultContentLanguage = "ru"
+title = "asfdfdfd nesgames"
+theme = "beautifulhugo"
+
+# disqusShortname = "nesgames"
+googleAnalytics = "UA-13098454-1"
+
+[Params]
+  homeTitle = "nesgames" # Set a different text for the header on the home page
+#  subtitle = "Прохождение всех игр на NES по порядку"
+  mainSections = ["post","posts"]
+  logo = "img/logo.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  hideAuthor = true
+  gcse = "5e4a34d12eb167bda"
+
+# [[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+# [[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+# [[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Andrey Panchenko"
+  website = "asfdfdfd.com"
+  email = "asfdfdfd@asfdfdfd.com"
+  twitter = "asfdfdfd"
+  reddit = "asfdfdfd"
+  youtube = "channel/UCrw6-rpbpWSF59mLbgFgK9g" # or channel/channelname
+  vk = "asfdfdfd"
+  telegram = "asfdfdfd"
+
+[[menu.main]]
+    name = "О проекте"
+    url = "page/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Теги"
+    url = "tags"
+    weight = 2
