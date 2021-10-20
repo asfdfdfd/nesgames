@@ -1,51 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>arkanoid on asfdfdfd nesgames</title>
-    <link>https://nesgames.asfdfdfd.com/tags/arkanoid/</link>
-    <description>Recent content in arkanoid on asfdfdfd nesgames</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>asfdfdfd@asfdfdfd.com (Andrey Panchenko)</managingEditor>
-    <webMaster>asfdfdfd@asfdfdfd.com (Andrey Panchenko)</webMaster>
-    <lastBuildDate>Thu, 25 Jun 2009 22:18:00 +0000</lastBuildDate><atom:link href="https://nesgames.asfdfdfd.com/tags/arkanoid/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Arkanoid 2 (J) [hFFE]</title>
-      <link>https://nesgames.asfdfdfd.com/2009/06/25/arkanoid-2-j-hffe/</link>
-      <pubDate>Thu, 25 Jun 2009 22:18:00 +0000</pubDate>
-      <author>asfdfdfd@asfdfdfd.com (Andrey Panchenko)</author>
-      <guid>https://nesgames.asfdfdfd.com/2009/06/25/arkanoid-2-j-hffe/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/KKvCpbvpRzs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Разработчик:&lt;/strong&gt; &lt;a href=&#34;http://en.wikipedia.org/wiki/Taito_Corporation&#34;&gt;Taito&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Издатель:&lt;/strong&gt; &lt;a href=&#34;http://en.wikipedia.org/wiki/Romstar&#34;&gt;Romstar&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Год релиза:&lt;/strong&gt; 1988&lt;br&gt;
-&lt;strong&gt;Жанр:&lt;/strong&gt; action&lt;/p&gt;
-&lt;p&gt;Продолжение сюжетной линии (наличие сюжета в арканоиде нанесло непоправимый удар моей психике), так вот, повторю, продолжение сюжетной линии первого арканоида (даже в начале есть кусочек сюжета). Злодей по имени DOH воскрес и полон решимости причинять добро. Нам нужно проникнуть в космический корабль противника и уничтожить всё что уничтожается.&lt;/p&gt;
-&lt;p&gt;По сравнению с первым арканоидом изменения видны на глаз. Самое первое, что ощутит игрок, так это скакнувшую сложность. Я, используя сохранения, растерял все жизни на 10 уровне (очень расстроился и решил дальше не проходить. странно, что во второй части нельзя использовать специальный девайс, как и в первой, по крайней мере у меня не получилось, а без него играть практически невозможно). В спешке елозя туда-сюда платформой, следующее, что заметит игрок – расширенный арсенал таблеток, модифицирующих свойства платформы и шарика и на некоторых уровнях динамически изменяющееся, в зависимости от действий игрока или просто по некоему алгоритму, окружение уровня. Например, двигающиеся из стороны в сторону блоки или появляющиеся из пустоты и т.п.&lt;/p&gt;
-&lt;p&gt;В остальном — обычный арканоид (неужели, кто-то ждал что-то другое?). Во всяких подробностях можете посмотреть на &lt;a href=&#34;http://en.wikipedia.org/wiki/Arkanoid_-_Revenge_of_Doh&#34;&gt;википедии&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;У игры неплохой multiplayer, как кооперативный, по очереди, так и друг против друга.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Arkanoid (U) [!]</title>
-      <link>https://nesgames.asfdfdfd.com/2009/06/20/arkanoid-u/</link>
-      <pubDate>Sat, 20 Jun 2009 20:25:00 +0000</pubDate>
-      <author>asfdfdfd@asfdfdfd.com (Andrey Panchenko)</author>
-      <guid>https://nesgames.asfdfdfd.com/2009/06/20/arkanoid-u/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/CS5y9CEUl2g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Разработчик:&lt;/strong&gt; Taito&lt;br&gt;
-&lt;strong&gt;Издатель:&lt;/strong&gt; Taito&lt;br&gt;
-&lt;strong&gt;Год релиза:&lt;/strong&gt; 1987&lt;br&gt;
-&lt;strong&gt;Жанр:&lt;/strong&gt; action&lt;/p&gt;
-&lt;p&gt;Самый что ни на есть арканоид.&lt;/p&gt;
-&lt;p&gt;Играть можно как геймпадом, так и специальным устройством на эмуляторе которое заменяет мышка. Игра постоянно подкидывает моменты в которых без этого самого устройства вероятность пройти уровень стремится к нулю потому, что управление им более резкое, т.е. на геймпаде надо кнопку зажать и платформа пиликает несколько секунд от края к краю экрана, а мышкой позиционируется мгновенно в нужном месте, учитывая, что шарик постоянно ускоряется – это огромное преимущество.&lt;/p&gt;
-&lt;p&gt;Настоящим открытием для меня стало то, что у арканоида есть сюжет и босс в конце.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>arkanoid on asfdfdfd nesgames</title><link>https://nesgames.asfdfdfd.com/tags/arkanoid/</link><description>Recent content in arkanoid on asfdfdfd nesgames</description><generator>Hugo -- gohugo.io</generator><managingEditor>asfdfdfd@asfdfdfd.com (Andrey Panchenko)</managingEditor><webMaster>asfdfdfd@asfdfdfd.com (Andrey Panchenko)</webMaster><lastBuildDate>Thu, 25 Jun 2009 22:18:00 +0000</lastBuildDate><atom:link href="https://nesgames.asfdfdfd.com/tags/arkanoid/index.xml" rel="self" type="application/rss+xml"/><item><title>Arkanoid 2 (J) [hFFE]</title><link>https://nesgames.asfdfdfd.com/2009/06/25/arkanoid-2-j-hffe/</link><pubDate>Thu, 25 Jun 2009 22:18:00 +0000</pubDate><author>asfdfdfd@asfdfdfd.com (Andrey Panchenko)</author><guid>https://nesgames.asfdfdfd.com/2009/06/25/arkanoid-2-j-hffe/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/KKvCpbvpRzs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>Разработчик:&lt;/strong> &lt;a href="http://en.wikipedia.org/wiki/Taito_Corporation">Taito&lt;/a>&lt;br>
+&lt;strong>Издатель:&lt;/strong> &lt;a href="http://en.wikipedia.org/wiki/Romstar">Romstar&lt;/a>&lt;br>
+&lt;strong>Год релиза:&lt;/strong> 1988&lt;br>
+&lt;strong>Жанр:&lt;/strong> action&lt;/p>
+&lt;p>Продолжение сюжетной линии (наличие сюжета в арканоиде нанесло непоправимый удар моей психике), так вот, повторю, продолжение сюжетной линии первого арканоида (даже в начале есть кусочек сюжета). Злодей по имени DOH воскрес и полон решимости причинять добро. Нам нужно проникнуть в космический корабль противника и уничтожить всё что уничтожается.&lt;/p>
+&lt;p>По сравнению с первым арканоидом изменения видны на глаз. Самое первое, что ощутит игрок, так это скакнувшую сложность. Я, используя сохранения, растерял все жизни на 10 уровне (очень расстроился и решил дальше не проходить. странно, что во второй части нельзя использовать специальный девайс, как и в первой, по крайней мере у меня не получилось, а без него играть практически невозможно). В спешке елозя туда-сюда платформой, следующее, что заметит игрок – расширенный арсенал таблеток, модифицирующих свойства платформы и шарика и на некоторых уровнях динамически изменяющееся, в зависимости от действий игрока или просто по некоему алгоритму, окружение уровня. Например, двигающиеся из стороны в сторону блоки или появляющиеся из пустоты и т.п.&lt;/p>
+&lt;p>В остальном — обычный арканоид (неужели, кто-то ждал что-то другое?). Во всяких подробностях можете посмотреть на &lt;a href="http://en.wikipedia.org/wiki/Arkanoid_-_Revenge_of_Doh">википедии&lt;/a>.&lt;/p>
+&lt;p>У игры неплохой multiplayer, как кооперативный, по очереди, так и друг против друга.&lt;/p></description></item><item><title>Arkanoid (U) [!]</title><link>https://nesgames.asfdfdfd.com/2009/06/20/arkanoid-u/</link><pubDate>Sat, 20 Jun 2009 20:25:00 +0000</pubDate><author>asfdfdfd@asfdfdfd.com (Andrey Panchenko)</author><guid>https://nesgames.asfdfdfd.com/2009/06/20/arkanoid-u/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/CS5y9CEUl2g" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>Разработчик:&lt;/strong> Taito&lt;br>
+&lt;strong>Издатель:&lt;/strong> Taito&lt;br>
+&lt;strong>Год релиза:&lt;/strong> 1987&lt;br>
+&lt;strong>Жанр:&lt;/strong> action&lt;/p>
+&lt;p>Самый что ни на есть арканоид.&lt;/p>
+&lt;p>Играть можно как геймпадом, так и специальным устройством на эмуляторе которое заменяет мышка. Игра постоянно подкидывает моменты в которых без этого самого устройства вероятность пройти уровень стремится к нулю потому, что управление им более резкое, т.е. на геймпаде надо кнопку зажать и платформа пиликает несколько секунд от края к краю экрана, а мышкой позиционируется мгновенно в нужном месте, учитывая, что шарик постоянно ускоряется – это огромное преимущество.&lt;/p>
+&lt;p>Настоящим открытием для меня стало то, что у арканоида есть сюжет и босс в конце.&lt;/p></description></item></channel></rss>
